@@ -33,11 +33,11 @@ Features based on Sound Analysis Pro (2011) and Librosa
 
 # Using Features to Separate Syllables #
     * syllable_sorting.ipynb
-        Segment syllables according to spectral entropy, and store as a pkl file
+        Segment syllables according to spectral entropy, and store as a pkl file for automated clustering
 
 # Feature Embedding # 
     * automated_umap_syllables.ipynb
-        Get segmented syllables from previous code, extract features, and plot them onto UMAP embedding
+        Get segmented syllables from previous code, extract features, and plot them onto dimensionality reduced embeddings
 
     * umap_syllables.ipynb
         Use hand-segmented data with spectral features to get umap embedding
