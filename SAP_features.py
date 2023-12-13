@@ -26,7 +26,7 @@ class SAP_features:
         self.sonogram = Sxx
         
         # Tranformations of spectral derivative to make it positive
-        self.spectral_derivative = sd/np.max(sd)        
+        self.spectral_derivative = sd        
 
         # Feature Derivatives 
         self.goodness_of_fit = gof
