@@ -1,5 +1,7 @@
 List of all programs and their purposes
 
+TODO: Simplify walkthrough
+
 syllable_sorting.ipynb
 automated_umap_syllables.ipynb
 umap_syllables.ipynb
